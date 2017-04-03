@@ -1,0 +1,7 @@
+{
+    "name"       : "Recaptcha",
+    "version"    : "1.0",
+    "description": "Recaptcha",
+    "homepage"   : "",
+    "license"    : "MIT"
+}
